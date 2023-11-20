@@ -44,7 +44,7 @@ We were provided with a Kaggle data set of social media accounts that had been f
 * <b>Sankey Diagram</b> - nodes representing entity owners, parent entities, and regions of focus were plotted with arrows proportional to their aggregate follower counts
 * <b>Chord Diagram</b> - display the scale of connections between account entity owners and their parent entities
 
-These diagrams were chosen as they were visually striking and an interesting means to demonstrate the presence of parent entities and their target regions across different areas of the globe. They were created with a web software tool called RawGraphs 2.0, and edited in Adobe Illustrator. 
+These diagrams were chosen as they were visually striking and an interesting means to represent the presence of parent entities and their target regions across different areas of the globe. They were created with a web software tool called RawGraphs 2.0, and edited in Adobe Illustrator. 
 
 Diagrams and tables were hosted on a live webpage for users to easily access and navigate the data. 
 
