@@ -69,7 +69,7 @@ Hosted Dashboard: [https://sankey-f92c65.webflow.io/](https://sankey-f92c65.webf
 
 DevPost Project Page: [https://devpost.com/software/sankey-dashboard](https://devpost.com/software/sankey-dashboard)
 
-YouTube Presentation: 
+YouTube Presentation: [https://youtu.be/Ywx1_hZtu8I](https://youtu.be/Ywx1_hZtu8I)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
