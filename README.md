@@ -88,6 +88,7 @@ Leanne Holmes - lholmes24@my.bcit.ca
 ## Acknowledgments
 
 * <a href="https://setproduct.com/orion">Orion UI KIT</a>
+*<a href="https://www.freepik.com/free-psd/3d-interface-website-presentation-mockup-isolated_23126615.htm#query=laptop%20mockup&position=14&from_view=keyword&track=ais&uuid=aec85748-f992-4bc2-954a-ae870eeab1d3">Mockup by designwarrior</a> 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
