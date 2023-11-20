@@ -4,7 +4,7 @@
 <br />
 <div align="center">
     <img src="https://i.ibb.co/p0m2NqV/sankey-logo.png" alt="Logo">
-    <p>&nbsp;</a>
+    <br />
   <p align="center">
     A project submitted for the CANIS Data Visualization & Foreign Interference Hackathon.
   </p>
