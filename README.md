@@ -3,8 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://i.ibb.co/p0m2NqV/sankey-logo.png" alt="Logo">
-<div height="30"></div>
+    <img src="https://i.ibb.co/p0m2NqV/sankey-logo.png" alt="Logo" margin-bottom=50>
   <p align="center">
     A project submitted for the CANIS Data Visualization & Foreign Interference Hackathon.
   </p>
