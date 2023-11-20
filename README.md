@@ -41,10 +41,12 @@
 This is a project created for a data visualization hackathon hosted by the University of Calgary. The goal was to creatively demonstrate the magnitude of influence that Chinese state accounts have in foreign social media. 
 
 We were provided with a Kaggle data set of social media accounts that had been flagged by platforms as state actors. We decided to graph the data in the form of <b>Sankey Diagrams</b> and <b>Chord Diagrams.</b>
-* Sankey Diagram - nodes representing entity owners, parent entities, and regions of focus were plotted with arrows proportional to their aggregate follower counts
-* Chord Diagram - display the scale of connections between account entity owners and their parent entities
+* <b>Sankey Diagram</b> - nodes representing entity owners, parent entities, and regions of focus were plotted with arrows proportional to their aggregate follower counts
+* <b>Chord Diagram</b> - display the scale of connections between account entity owners and their parent entities
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+These diagrams were chosen as they were visually striking and an interesting method to demonstrate the presence of parent entities and their target regions across different areas of the globe. 
+
+Diagrams and tables were hosted on a live webpage for users to easily access and navigate the data. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,14 +67,16 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Hosted Dashboard: [https://sankey-f92c65.webflow.io/](https://sankey-f92c65.webflow.io/)
 
-DevPost Project: 
+DevPost Project Page: 
+
+YouTube Presentation: 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
 
-Chris DiMattia - email@example.com
+Chris DiMattia - sun_dmtt@outlook.com
 
 Leanne Holmes - lholmes24@my.bcit.ca
 
