@@ -67,7 +67,7 @@ Diagrams and tables were hosted on a live webpage for users to easily access and
 
 Hosted Dashboard: [https://sankey-f92c65.webflow.io/](https://sankey-f92c65.webflow.io/)
 
-DevPost Project Page: 
+DevPost Project Page: [https://devpost.com/software/sankey-dashboard](https://devpost.com/software/sankey-dashboard)
 
 YouTube Presentation: 
 
