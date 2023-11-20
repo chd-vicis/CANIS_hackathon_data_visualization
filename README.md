@@ -4,7 +4,7 @@
 <br />
 <div align="center">
     <img src="https://i.ibb.co/p0m2NqV/sankey-logo.png" alt="Logo">
-    <br />
+    <p>&nbsp;</p>
   <p align="center">
     A project submitted for the CANIS Data Visualization & Foreign Interference Hackathon.
   </p>
@@ -35,7 +35,7 @@
 
 <div align="center">
 <img src="https://i.ibb.co/42M6xrV/mockup-2.jpg" alt="Screenshot"> 
-    <p></p>
+    <p>&nbsp;</p>
 </div>
 
 This is a project created for a data visualization hackathon hosted by the University of Calgary. The goal was to creatively demonstrate the magnitude of influence that Chinese state accounts have in foreign social media. 
