@@ -6,7 +6,7 @@
     <img src="https://i.ibb.co/p0m2NqV/sankey-logo.png" alt="Logo">
     <p>&nbsp;</p>
   <p align="center">
-    A project submitted for the CANIS Data Visualization & Foreign Interference Hackathon.
+    A project submitted for the CANIS Data Visualization & Foreign Interference Hackathon 2023.
   </p>
 </div>
 
@@ -40,11 +40,11 @@
 
 This is a project created for a data visualization hackathon hosted by the University of Calgary. The goal was to creatively demonstrate the magnitude of influence that Chinese state accounts have in foreign social media. 
 
-We were provided with a Kaggle data set of social media accounts that had been flagged by platforms as state actors. We decided to graph the data in the form of <b>Sankey Diagrams</b> and <b>Chord Diagrams.</b>
+We were provided with a Kaggle data set of social media accounts that had been flagged by platforms as state actors. We decided focus on Twitter accounts and to graph the data in the form of <b>Sankey Diagrams</b> and <b>Chord Diagrams.</b>
 * <b>Sankey Diagram</b> - nodes representing entity owners, parent entities, and regions of focus were plotted with arrows proportional to their aggregate follower counts
 * <b>Chord Diagram</b> - display the scale of connections between account entity owners and their parent entities
 
-These diagrams were chosen as they were visually striking and an interesting method to demonstrate the presence of parent entities and their target regions across different areas of the globe. 
+These diagrams were chosen as they were visually striking and an interesting means to demonstrate the presence of parent entities and their target regions across different areas of the globe. They were created with a web software tool called RawGraphs 2.0, and edited in Adobe Illustrator. 
 
 Diagrams and tables were hosted on a live webpage for users to easily access and navigate the data. 
 
