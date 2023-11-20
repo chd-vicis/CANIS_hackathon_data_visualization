@@ -4,7 +4,7 @@
 <br />
 <div align="center">
     <img src="https://i.ibb.co/p0m2NqV/sankey-logo.png" alt="Logo">
-
+<div height="30"></div>
   <p align="center">
     A project submitted for the CANIS Data Visualization & Foreign Interference Hackathon.
   </p>
@@ -34,7 +34,7 @@
 ## About The Project
 
 <div align="center">
-[![Product Name Screen Shot][product-screenshot]](https://sankey-f92c65.webflow.io/)
+<img src="https://i.ibb.co/42M6xrV/mockup-2.jpg" alt="Screenshot">
 </div>
 
 This is a project created for a data visualization hackathon hosted by the University of Calgary. The goal was to creatively demonstrate the magnitude of influence that Chinese state accounts have in foreign social media. 
@@ -100,7 +100,6 @@ Leanne Holmes - lholmes24@my.bcit.ca
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: https://i.ibb.co/42M6xrV/mockup-2.jpg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
